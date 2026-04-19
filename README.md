@@ -1,4 +1,4 @@
-# OPInE: A Prior-calibrated Scoring Framework for LLM-based Multi-label Scientific Opinion Classification
+# OPINE: A Prior-calibrated Scoring Framework for LLM-based Multi-label Scientific Opinion Classification
 
 > 🚧 This repository is currently under active development. Code and documentation will be released soon.
 
