@@ -1,0 +1,5 @@
+{
+  "model": "deepseek-flash",
+  "base_url": "https://api.deepseek.com",
+  "output_root": "outputs"
+}
